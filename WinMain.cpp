@@ -82,7 +82,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT iMessage, WPARAM wParam, LPARAM lParam)
 
         EndPaint(hWnd, &ps);
         break;
-
+//안녕
     case WM_KEYDOWN:
         switch (wParam)
         {
